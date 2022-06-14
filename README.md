@@ -56,5 +56,5 @@ __Creators:__
 
 # Download
 
-https://cdn.discordapp.com/attachments/941115372277497908/941126156026015774/Zypser_Client_1.0.0.zip
+https://anonfiles.com/d9M09bp5ya/Zypser_Client_1.0.0_zip
 All of this is free so please support us.
